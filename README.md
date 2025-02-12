@@ -25,7 +25,11 @@
 #### Systems Thinking workshops development and facilitation. Data visualisation and development. Qualitative and quantitative analysis. Evaluation. Consultative approach to using intelligence to solve problems.
 
 ## Skills
-
+### Python
+### Data Analysis
+### Systems Thinking
+### Client Centred Consulting
+### Leadership
 
 ## Projects
 
