@@ -1,7 +1,7 @@
 # Stephanie Farr CV
 
 ## Education
-![Info] (assets/info.png)
+![Info] (assets/Info.png)
 ## Work Experience
 
 ## Skills
