@@ -16,7 +16,7 @@
 
 ## Work Experience
 ### **NHS Greater Manchester ICB - Lead Intelligence Analyst** *(March 2025 - Present)*
-#### Working with locality partners to provide impactful analysis for strategic commissioning.####
+#### Working with locality partners to provide impactful analysis for strategic commissioning.
 
 ### **Kirklees Council - Senior Data & Insight Analyst** *(June 2022-March 2025)*
 #### Quantitative and qualitative analysis, data science and engineering, creating a talent pipeline, pushing forward the analytical maturity of the organisation. Working across Council and with partners, allocating resources as required. Supporting others to use analytical products with confidence and manage an Insight Exchange network.
