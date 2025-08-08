@@ -1,11 +1,12 @@
 # Stephanie Farr CV
 
 ## Formal Education
-### BSc Data Science - BPP University *(May 2024 - Ongoing)*
-### Leadership & Management (ILM) Level 5 - SOLACE *(2022-2024)*
-### BSc Criminological & Forensic Psychology - Bolton University *(2006-2009)*
-### A-Levels - Nelson Thomlinson School *(2004-2006)*
-### GCSEs (9 A-C grades including English & Maths) - Nelson Thomlinson School *(2004)*
+BSc Data Science, BPP University (May 2024 – Present)
+ILM Level 5 in Leadership & Management, SOLACE (2022 – 2024)
+BSc Criminological & Forensic Psychology, University of Bolton (2006 – 2009)
+A-Levels, Nelson Thomlinson School (2004 – 2006)
+GCSEs, Nelson Thomlinson School (2004)
+9 A–C grades including English & Maths
 
 ## Additional Relevant Training
 ### Python & Apps - Code First Girls *(2024)*
